@@ -138,7 +138,3 @@ The Agent will automatically lose `read_file` capabilities and gain `create_issu
 ---
 
 **Built for Evren AI**
-
-```
-
-```
