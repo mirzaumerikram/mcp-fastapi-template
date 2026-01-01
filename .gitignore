@@ -1,0 +1,10 @@
+# Security: Never upload API keys
+.env
+
+# Python: Ignore virtual environments and cache
+venv/
+__pycache__/
+*.pyc
+
+# OS: Ignore system files
+.DS_Store
